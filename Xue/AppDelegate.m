@@ -9,7 +9,9 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+{
+    int age;
+}
 @end
 
 @implementation AppDelegate
